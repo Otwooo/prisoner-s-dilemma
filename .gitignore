@@ -197,3 +197,4 @@ ipython_config.py
 venv/
 
 .DS_Store
+*.zip
